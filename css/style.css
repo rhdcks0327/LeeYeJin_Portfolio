@@ -1,0 +1,31 @@
+#wrap{}
+#header{}
+#section{}
+#footer{}
+
+/*********************header****************************/
+#header p{font-weight: bold; color: rgb(12, 12, 12); font-size: 1.2rem; padding-left: 230px;
+margin-top: 30PX; margin-bottom: 132px;}
+
+/*********************section****************************/
+#sec1 img{width: 100%; }
+
+#sec2{margin-bottom: 170px;}
+#sec2 #text{width: 500px; height: auto; margin-left: 500px; margin-top: 40px;}
+#sec2 #text p{font-weight: bold; color: rgb(12, 12, 12); display: inline; 
+    font-size: 1.2rem;  padding-left: 50px; }
+#sec2 #text p:last-child{padding-left: 217px;}
+
+
+#sec3 #left{float: left; margin-left: 180px; margin-top: 140px;}
+#sec3 #right{float: right; margin-right: 180px;}
+
+
+#sec4 P{font-size: 18.0rem; line-height: 40px; text-align: center; color: rgb(17, 17, 17);
+}
+#sec4 p:first-child{margin-left: 230px;}
+#sec4 P:last-child{margin-right: 30px;}
+#sec4 div{padding-top: 650px;}
+
+
+/*********************footer****************************/
